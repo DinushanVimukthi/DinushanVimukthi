@@ -17,7 +17,8 @@
 <a href="https://www.linkedin.com/in/dinushan-vimukthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trineesha thathsarani" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display:flex; flex-wrap:wrap; gap:2rem"> 
+
+<div style="display:flex; flex-wrap:wrap; gap:1rem"> 
 <!-- Android -->
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -227,7 +228,7 @@
 
 
  </div>
-<div style="display:flex;justify-content:center; flex-wrap:wrap; gap:1rem">
+<div style="display:flex;justify-content:center; flex-wrap:wrap; gap:1rem"; margin-top: 100px>
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinushanvimukthi&show_icons=true&locale=en&layout=compact" alt="trineeshasanduni" />
 </div>
