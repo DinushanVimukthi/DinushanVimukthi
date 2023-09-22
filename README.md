@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinushan Vimukthi</h1>
-<h3 align="center">I'm a Undergraduate from UCSC</h3>
+<h3 align="center">Undergraduate from UCSC</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DinushanVimukthi&label=Profile%20views&color=0e75b6&style=flat" alt="trineeshasanduni" /> </p>
