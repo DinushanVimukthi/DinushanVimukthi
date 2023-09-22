@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/dinushan-vimukthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trineesha thathsarani" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display:flex; flex-wrap:wrap; gap:1rem"> 
+<div style="display:flex; flex-wrap:wrap; gap:2rem"> 
 <!-- Android -->
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
