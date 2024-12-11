@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate from UCSC</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DinushanVimukthi&label=Profile%20views&color=0e75b6&style=flat" alt="trineeshasanduni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DinushanVimukthi&label=Profile%20views&color=0e75b6&style=flat" alt="dinushan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dinushan-vimukthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trineesha thathsarani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dinushan-vimukthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dinushan Vimukthi" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -230,11 +230,11 @@
  </div>
 <div style="display:flex;justify-content:center; flex-wrap:wrap; gap:1rem"; margin-top: 100px>
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinushanvimukthi&show_icons=true&locale=en&layout=compact" alt="trineeshasanduni" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinushanvimukthi&show_icons=true&locale=en&layout=compact" alt="dinushan" />
 </div>
 
 <div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinushanvimukthi&" alt="trineeshasanduni" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinushanvimukthi&" alt="dinushan" />
 </div>
 
 </div>
